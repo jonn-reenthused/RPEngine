@@ -7,6 +7,13 @@ Connected to this they had added a page for a project of theirs called the Mega 
 
 So I thought, well – could I just make a version of it that was open-source? It was mostly a glorified Pi case anyway, it would need space for the Pi, a laptop CD drive and some way to connect a joypad.
 
+What 3D Models are needed for a single RP Engine?:
+    1 x CD Holder
+    1 x Power Switch
+    1 x Base, either the USB version or the PC Controller Adapter version
+    If you use the PC Controller Adapter base you'll also need to print an adapter stop to hold it in
+    1 x Design, If you don't want to use a HuCard you can omit this entirely, else use the normal version, HuCard version or, for a different look, the Sega MegaCD version
+
 Construction information here: https://re-enthused.com/the-rp-engine/
 Print Settings
 
